@@ -22,10 +22,15 @@ Este repositorio contiene la capa de servidor desarrollada en **Node.js** y **Ex
 - Historial de documentos por docente.  
 
 ---
+## ​ Contribuyentes
 
-## ⚙️ Instalación y configuración
+<a href="https://github.com/ana21garces">
+  <img src="https://avatars.githubusercontent.com/ana21garces" width="80" style="border-radius:50%;" alt="Ana María Garcés"/>
+</a>
+<a href="https://github.com/duvn0210">
+  <img src="https://avatars.githubusercontent.com/duvn0210" width="80" style="border-radius:50%;" alt="Duvan Esparza"/>
+</a>
+<a href="https://github.com/Mayerly3suarez">
+  <img src="https://avatars.githubusercontent.com/Mayerly3suarez" width="80" style="border-radius:50%;" alt="Mayerly Andrea Suarez"/>
+</a>
 
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/TU_USUARIO/unac-jobs-backend.git
-   cd unac-jobs-backend
