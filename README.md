@@ -1,6 +1,6 @@
 # UNAC Jobs - Backend
 
-API REST del sistema **UNAC Jobs**, encargada de la gestión de docentes, contratos y documentos institucionales.  
+API REST del sistema **UNAC Jobs**, encargada de la gestión de contratacion de docentes de catedra.  
 Este repositorio contiene la capa de servidor desarrollada en **Node.js** y **Express**, conectada a una base de datos **PostgreSQL**.
 
 ---
